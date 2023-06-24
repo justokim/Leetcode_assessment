@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.main {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  border-color: black;
+  border-radius: 5px;
+  padding: 4px;
+  color: black;
+}
